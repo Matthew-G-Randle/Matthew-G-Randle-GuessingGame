@@ -1,4 +1,5 @@
 /**
+ * 1
  * This service class is intended to contain the basic logic for playing the number guessing game.
  * Separating menu logic and game logic is good for two reasons: it makes both classes as simple
  * as they could be, and it also makes this class capable of being tested with automated tests, since testing
